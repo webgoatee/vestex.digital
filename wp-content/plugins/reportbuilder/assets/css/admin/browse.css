@@ -1,0 +1,25 @@
+.wdt-datatables-admin-wrap .card.wdt-browse-table table tr:hover > .column-functions a.delete-report {
+    color: #F44336;
+}
+
+.wdt-datatables-admin-wrap .card.wdt-browse-table table tr:hover > .column-functions a.rb-configure {
+    color: #4CAF50;
+}
+
+.wdt-datatables-admin-wrap .card.wdt-browse-table table tr:hover > .column-functions a.download-rb-report,
+.wdt-datatables-admin-wrap .card.wdt-browse-table table tr:hover > .column-functions a.get-rb-shortcodes {
+    color: #2196f3;
+}
+
+#wdt-rb-shortcodes-modal .alert a {
+    color: #0073aa;
+    font-weight: 600;
+}
+
+#wdt-rb-shortcodes-modal .wdt-copy-shortcode {
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}

@@ -1,0 +1,12 @@
+"Total Imported customers",7
+"New Imported customers",3
+"Already existing customers",4
+"SKIPPED ROWS",0
+Email,"Already customer","Prev PO","First Order Status","Previous Orders"
+info@webgoatee.com,NO,,,
+kayla.worthy@vestagen.com,NO,,,
+lurlie.moro@vestagen.com,YES,-,completed,
+milton.bugg@vestagen.com,YES,-,completed,
+daniel.hume@vestagen.com,NO,,,
+dave.teper@vestagen.com,YES,testpo06172017,pending,
+jamie.arthur@vestagen.com,YES,"TEST PO",pending,
